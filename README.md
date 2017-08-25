@@ -4,7 +4,7 @@ Baseline IoT security checklist. Consider security as early in development as po
 # Blog Post
 There is a blog post explaining the origins of this along with some fundamentals available here:
 
-https://www.secarma.co.uk/internet-of-things-iot-security-checklist/
+* https://www.secarma.co.uk/internet-of-things-iot-security-checklist/
 
 This contains high-level advice and is a good source of information to kick off your discussions of risk.
 
@@ -17,16 +17,26 @@ The "checklist" is designed to aid you in enumerating the attack surface of your
 
 # How to use it?
 
-Read the blog post first before starting.
-There is a video where the IoT Checklist is discussed here: https://www.youtube.com/watch?v=au8gAesPYN4&t=5m54s
+Read the blog post first before starting.There is a video where the IoT Checklist is discussed here: 
+
+* https://www.youtube.com/watch?v=au8gAesPYN4&t=5m54s
+
+Which is based on the presentation slides that are available here:
+
+* https://github.com/SecarmaLabs/IoTChecklist/blob/master/IoT-Checklist-Presentation-23-08-2017-for-IoT-Meetup.pdf
 
 You actively edit and maintain your decomposition matrix as it eventually serves as your Risk Matrix. 
 You do not have to edit the CheckList these are just the discussion points to hit. 
 
-Finally you can engage with us if you have feedback or would like to see alteration.
-https://twitter.com/SecarmaLabs (our official account)
-https://twitter.com/cornerpirate (the original author)
-
 # Examples 
+
+Filling in the decomposition matrix is difficult at first so to bridge the gap 
+
+# Contribute or Discuss
+
+Finally you can engage with us if you have feedback or would like to see alteration:
+
+* https://twitter.com/SecarmaLabs (our official account)
+* https://twitter.com/cornerpirate (the original author)
 
 
