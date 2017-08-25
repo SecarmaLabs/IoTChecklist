@@ -30,7 +30,11 @@ You do not have to edit the CheckList these are just the discussion points to hi
 
 # Examples 
 
-Filling in the decomposition matrix is difficult at first so to bridge the gap 
+Filling in the decomposition matrix is difficult at first so to bridge the gap we have provided a document explaining the process for a fictional Internet enabled radio:
+
+* https://github.com/SecarmaLabs/IoTChecklist/blob/master/examples/Example-Device_Decomposition_Matrix.xlsx
+
+This comes with an associated word document which talks you through the steps.
 
 # Contribute or Discuss
 
