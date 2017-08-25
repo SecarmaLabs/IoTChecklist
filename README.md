@@ -33,8 +33,9 @@ You do not have to edit the CheckList these are just the discussion points to hi
 Filling in the decomposition matrix is difficult at first so to bridge the gap we have provided a document explaining the process for a fictional Internet enabled radio:
 
 * https://github.com/SecarmaLabs/IoTChecklist/blob/master/examples/Example-Device_Decomposition_Matrix.xlsx
+* https://github.com/SecarmaLabs/IoTChecklist/blob/master/examples/Example_Process.pdf
 
-This comes with an associated word document which talks you through the steps.
+This comes with an associated PDF document which talks you through the steps. I will be honest. This is NOT the most riveting of activities. How about you get a friend and read it while taking it in turns to do cartwheels? The PDF explains the transformations used to create a finalised device decomposition.
 
 # Contribute or Discuss
 
